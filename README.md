@@ -1,4 +1,4 @@
-# Problem steament:
+# Problem statement:
 
 Find all similar number for a given input number.
 - The similar numbers cannot start with 0 and they have to be same length as input number
